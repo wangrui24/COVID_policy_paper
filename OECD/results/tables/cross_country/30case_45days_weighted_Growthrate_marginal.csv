@@ -1,0 +1,3 @@
+"","Variable","estimate","std.error","statistic","p.value","conf.low","conf.high","95% CI"
+"1","Intercept",0.181,0.0151,144.115831858467,0,0.152,0.211,"[0.152,0.211]"
+"2","Stay at home policy history",-0.154,0.0208,54.4365062089189,1.61e-13,-0.194,-0.113,"[-0.194,-0.113]"
